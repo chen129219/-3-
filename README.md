@@ -21,8 +21,7 @@ Diffie-Hellman 主程序：
 A 计算共享密钥 S_A 和 B 计算共享密钥 S_B。
 最后，若两个参与方计算出的共享密钥一致，表明密钥交换成功。
 
-下面是实验结果：
-
+下面为实验结果：
 随机生成的素数为167时，原根为5时计算结果为
 
 ![image](https://github.com/user-attachments/assets/2e9f4f37-4a57-44ea-a92f-d60af32f56e7)
